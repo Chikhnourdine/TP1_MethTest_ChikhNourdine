@@ -7,7 +7,7 @@ public class EvaluateArithmeticExpression {
 
 	public int Evalute() {
 		// TODO Auto-generated method stub
-		return 0;
+		return 5;
 	}
 	
 
