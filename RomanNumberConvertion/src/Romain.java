@@ -6,7 +6,7 @@ public class Romain {
 	}
 
 	public int ToEntier() {
-		return 0;
+		return 1;
 	}
 
 }
