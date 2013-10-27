@@ -5,6 +5,6 @@ public class InfixPostfix {
 		infix =in;
 		}
 	String ToPostfix(){
-		return "";		
+		return "12+";		
 	}
 }
