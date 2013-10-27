@@ -2,16 +2,6 @@ import java.util.Stack;
 
 import org.omg.CORBA.PUBLIC_MEMBER;
 
-/*
-public class InfixPostfix {
-	static String infix;
-	public InfixPostfix(String in) {
-		infix =in;
-		}
-	String ToPostfix(){
-		return "12+";		
-	}
-}*/
 public class InfixPostfix{
 	private final  String infix;
 	public InfixPostfix(String infix)
